@@ -1,0 +1,17 @@
+target/
+.idea/
+.vscode/
+*.iml
+*.class
+*.log
+.DS_Store
+
+# Local application databases
+*.db
+*.db-shm
+*.db-wal
+
+# Environment-specific files
+.env
+.env.*
+!.env.example
